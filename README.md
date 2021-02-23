@@ -2,6 +2,8 @@
 
 Welcome to Error Finder! This utility scans all of your telepresence devices and records the errors listed under the device's status.xml page. There is also a daily update script which can keep track of which errors are new and list them in a separate table. 
 
+Check out the demo video of this project: https://youtu.be/d2e39eA_WK8
+
 Features
 
  - On-demand error tracking
